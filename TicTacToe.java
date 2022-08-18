@@ -3,7 +3,6 @@ package com.bridgelabz;
 import java.util.Scanner;
 
 public class TicTacToe {
-    //    static char player = ' ';
     static char player;
     static char computerPlayer;
     static char[] board = new char[10];
